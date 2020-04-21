@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74529f50-66ee-4091-b519-de935d1f7826" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="true" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="luffy@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="luffy@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="luffy@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="luffy: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TptJG1yExeDtgSUzfxJ3ljXbqx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mahjong1.1/echecs_web_services" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mycelery/sms" />
+      <recent name="$PROJECT_DIR$/luffyapi/libs/yuntongxun" />
+      <recent name="$PROJECT_DIR$/luffyapi/libs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mycelery" />
+      <recent name="$PROJECT_DIR$/luffyapi/libs/yuntongxun" />
+      <recent name="$PROJECT_DIR$/luffyapi/libs" />
+      <recent name="$PROJECT_DIR$/luffyapi/uploads" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="adminx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luffyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luffyapi/apps/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luffyapi/apps/home/adminx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python">
+      <module name="luffyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver api.luffycity.cn:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sms" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luffyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luffyapi/libs/yuntongxun" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luffyapi/libs/yuntongxun/sms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luffyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycelery/sms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycelery/sms/tasks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luffyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luffyapi/apps/cart" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luffyapi/apps/cart/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luffyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/luffyapi/apps/course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/luffyapi/apps/course/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="luffyapi" type="Python.DjangoServer" factoryName="Django server">
+      <module name="luffyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.luffyapi" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.adminx" />
+      <item itemvalue="Python.sms" />
+      <item itemvalue="Python.tasks" />
+      <item itemvalue="Python.views (1)" />
+      <item itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.adminx" />
+        <item itemvalue="Python.tasks" />
+        <item itemvalue="Python.sms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74529f50-66ee-4091-b519-de935d1f7826" name="Default Changelist" comment="" />
+      <created>1574168790864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574168790864</updated>
+      <workItem from="1574168792551" duration="4001000" />
+      <workItem from="1574261068407" duration="464000" />
+      <workItem from="1574336016004" duration="2006000" />
+      <workItem from="1574338476490" duration="51000" />
+      <workItem from="1574343818065" duration="1626000" />
+      <workItem from="1574383439142" duration="3140000" />
+      <workItem from="1574386694706" duration="1568000" />
+      <workItem from="1574388410341" duration="9654000" />
+      <workItem from="1574413808712" duration="28000" />
+      <workItem from="1574429519465" duration="4149000" />
+      <workItem from="1574474471467" duration="2964000" />
+      <workItem from="1574477495092" duration="13325000" />
+      <workItem from="1574501978444" duration="2464000" />
+      <workItem from="1574507612423" duration="273000" />
+      <workItem from="1574574151935" duration="7690000" />
+      <workItem from="1574649343643" duration="3769000" />
+      <workItem from="1574685536542" duration="171000" />
+      <workItem from="1574685975238" duration="69000" />
+      <workItem from="1574686288141" duration="888000" />
+      <workItem from="1574688172420" duration="4047000" />
+      <workItem from="1574729762833" duration="7192000" />
+      <workItem from="1574768451778" duration="4221000" />
+      <workItem from="1574819769641" duration="5094000" />
+      <workItem from="1574944395499" duration="7313000" />
+      <workItem from="1574989227862" duration="10641000" />
+      <workItem from="1575008413858" duration="836000" />
+      <workItem from="1575027199177" duration="5831000" />
+      <workItem from="1575090428368" duration="2221000" />
+      <workItem from="1575097831059" duration="7852000" />
+      <workItem from="1575172445299" duration="6065000" />
+      <workItem from="1575183988503" duration="14267000" />
+      <workItem from="1575249995999" duration="5184000" />
+      <workItem from="1575257718385" duration="4834000" />
+      <workItem from="1575287496040" duration="11219000" />
+      <workItem from="1575335197334" duration="146000" />
+      <workItem from="1575335348867" duration="8412000" />
+      <workItem from="1575372654008" duration="2257000" />
+      <workItem from="1575375046342" duration="321000" />
+      <workItem from="1575375432282" duration="4419000" />
+      <workItem from="1575421149621" duration="9440000" />
+      <workItem from="1575464075983" duration="6556000" />
+      <workItem from="1575508168520" duration="5892000" />
+      <workItem from="1575549785909" duration="7396000" />
+      <workItem from="1575559204256" duration="289000" />
+      <workItem from="1575594050788" duration="6412000" />
+      <workItem from="1575613492859" duration="8257000" />
+      <workItem from="1575688448610" duration="2630000" />
+      <workItem from="1575700495480" duration="9234000" />
+      <workItem from="1575724663480" duration="3495000" />
+      <workItem from="1575784930673" duration="6671000" />
+      <workItem from="1575806065125" duration="5493000" />
+      <workItem from="1575853746764" duration="2535000" />
+      <workItem from="1575860318421" duration="496000" />
+      <workItem from="1575860830858" duration="3241000" />
+      <workItem from="1575872258242" duration="1804000" />
+      <workItem from="1575894949533" duration="7145000" />
+      <workItem from="1575939576240" duration="8227000" />
+      <workItem from="1575959716818" duration="472000" />
+      <workItem from="1575979475318" duration="8394000" />
+      <workItem from="1576026877776" duration="4667000" />
+      <workItem from="1576032507127" duration="4354000" />
+      <workItem from="1576068607114" duration="6100000" />
+      <workItem from="1576112599451" duration="9082000" />
+      <workItem from="1576133412719" duration="1226000" />
+      <workItem from="1576198741175" duration="5629000" />
+      <workItem from="1576207992061" duration="2331000" />
+      <workItem from="1576219046492" duration="682000" />
+      <workItem from="1576328376437" duration="1573000" />
+      <workItem from="1576390101592" duration="6323000" />
+      <workItem from="1576408265366" duration="7936000" />
+      <workItem from="1576459877727" duration="6458000" />
+      <workItem from="1576478144871" duration="598000" />
+      <workItem from="1576497415314" duration="505000" />
+      <workItem from="1576499671111" duration="1537000" />
+      <workItem from="1576509239173" duration="7000" />
+      <workItem from="1576545990118" duration="40000" />
+      <workItem from="1577087910139" duration="21000" />
+      <workItem from="1577088235204" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="46" width="624" height="559" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575375055622">
+      <screen x="47" y="27" width="1317" height="597" />
+    </state>
+    <state x="388" y="46" width="624" height="559" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/47.27.1317.597@47.27.1317.597" timestamp="1575375055622" />
+    <state x="442" y="81" width="401" height="465" key="FileChooserDialogImpl" timestamp="1577088418427">
+      <screen x="47" y="27" width="1181" height="573" />
+    </state>
+    <state x="442" y="81" width="401" height="465" key="FileChooserDialogImpl/47.27.1181.573@47.27.1181.573" timestamp="1577088418427" />
+    <state x="488" y="83" width="424" height="484" key="FileChooserDialogImpl/47.27.1317.597@47.27.1317.597" timestamp="1575375839615" />
+    <state width="653" height="156" key="GridCell.Tab.0.bottom" timestamp="1575381832181">
+      <screen x="47" y="27" width="705" height="603" />
+    </state>
+    <state width="653" height="156" key="GridCell.Tab.0.bottom/47.27.705.603@47.27.705.603" timestamp="1575381832181" />
+    <state width="653" height="156" key="GridCell.Tab.0.center" timestamp="1575381832174">
+      <screen x="47" y="27" width="705" height="603" />
+    </state>
+    <state width="653" height="156" key="GridCell.Tab.0.center/47.27.705.603@47.27.705.603" timestamp="1575381832174" />
+    <state width="653" height="156" key="GridCell.Tab.0.left" timestamp="1575381832169">
+      <screen x="47" y="27" width="705" height="603" />
+    </state>
+    <state width="653" height="156" key="GridCell.Tab.0.left/47.27.705.603@47.27.705.603" timestamp="1575381832169" />
+    <state width="653" height="156" key="GridCell.Tab.0.right" timestamp="1575381832178">
+      <screen x="47" y="27" width="705" height="603" />
+    </state>
+    <state width="653" height="156" key="GridCell.Tab.0.right/47.27.705.603@47.27.705.603" timestamp="1575381832178" />
+    <state x="371" y="104" key="com.intellij.ide.util.TipDialog" timestamp="1577088233254">
+      <screen x="47" y="27" width="1181" height="573" />
+    </state>
+    <state x="371" y="104" key="com.intellij.ide.util.TipDialog/47.27.1181.573@47.27.1181.573" timestamp="1577088233254" />
+    <state x="340" y="153" key="com.intellij.ide.util.TipDialog/47.27.1317.597@47.27.1317.597" timestamp="1575375434103" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/luffyapi$views.coverage" NAME="views Coverage Results" MODIFIED="1575372808167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luffyapi/apps/course" />
+    <SUITE FILE_PATH="coverage/luffyapi$sms.coverage" NAME="sms Coverage Results" MODIFIED="1575031368629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luffyapi/libs/yuntongxun" />
+    <SUITE FILE_PATH="coverage/luffyapi$manage.coverage" NAME="manage Coverage Results" MODIFIED="1576478195945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/luffyapi$dev.coverage" NAME="dev Coverage Results" MODIFIED="1574344950840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luffyapi/settings" />
+    <SUITE FILE_PATH="coverage/luffyapi$views__1_.coverage" NAME="views (1) Coverage Results" MODIFIED="1575465575171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luffyapi/apps/cart" />
+    <SUITE FILE_PATH="coverage/luffyapi$qqq.coverage" NAME="qqq Coverage Results" MODIFIED="1574496864473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luffyapi/apps" />
+    <SUITE FILE_PATH="coverage/luffyapi$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1575031363443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luffyapi/libs/yuntongxun" />
+    <SUITE FILE_PATH="coverage/luffyapi$adminx.coverage" NAME="adminx Coverage Results" MODIFIED="1575191451788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luffyapi/apps/home" />
+    <SUITE FILE_PATH="coverage/luffyapi$tasks.coverage" NAME="tasks Coverage Results" MODIFIED="1575190733650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mycelery/sms" />
+  </component>
+</project>
